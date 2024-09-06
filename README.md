@@ -2,7 +2,8 @@
 <h3 align="center">Passionate about machine learning and artificial intelligence. Mastering the art of data-driven decision-making. Transforming complex datasets into actionable insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa-salahuddin&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifa-salahuddin" /> </p>
-
+<a href="https://huggingface.co/huzaifa-salahuddin" target="blank"><img align="center" src="[https://huggingface.co/front/assets/huggingface_logo-noborder.svg](https://huggingface.co/Huzaifa424)" alt="Hugging Face" height="30" width="40" /></a>
+</p>
 - 🌱 I’m currently learning **Generative Ai**
 
 - 📫 How to reach me **huzaifaarain424@gmail.com**
